@@ -15,7 +15,7 @@ function fibonacciGenerator (n) {
       out.push(sum1)
     }
     return out;
-    
+    // can also use output.length - 2 and - 1 and sum them and push
     
     
     
