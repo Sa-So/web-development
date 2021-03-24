@@ -1,1 +1,3 @@
 add js to website
+add css at top
+add js at bottom 
