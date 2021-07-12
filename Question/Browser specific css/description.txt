@@ -1,0 +1,5 @@
+Interviewer asked, well you love css then tell me how can I write a text Hello world.
+
+1. in Chrome color: Red
+2. in Firefox color: Green
+3. in Safari color: Blue
