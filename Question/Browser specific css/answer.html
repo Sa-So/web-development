@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello, World !</h1>
+  <script>
+        if(navigator.userAgent.indexOf("Chrome") != -1 )
+        {
+		    document.querySelector("h1").style.color="red";
+        }
+        else if(navigator.userAgent.indexOf("Safari") != -1)
+        {
+            document.querySelector("h1").style.color="blue";
+        }
+        else if(navigator.userAgent.indexOf("Firefox") != -1 ) 
+        {
+		        document.querySelector("h1").style.color="green";
+        }
+  </script>
+</body>
+</html>
